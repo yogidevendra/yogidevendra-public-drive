@@ -9,7 +9,7 @@ qr = qrcode.QRCode(
     )
 
 # adding a link for the QR code to open
-data = 'https://github.com/yogidevendra/yogidevendra-public-drive/raw/main/Marathi-Mitra-Berlin-Aarti-sangrah.pdf'
+data = 'https://github.com/yogidevendra/yogidevendra-public-drive/blob/main/Aarti-sangrah/Download.md'
 qr.add_data(data)
 qr.make(fit=True)
 

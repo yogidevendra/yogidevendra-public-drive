@@ -1,1 +1,1 @@
-<img src="https://www.hindutempleberlin.de/wp-content/uploads/2021/06/Logo-new-1.png" , width="100px">
+![](https://www.hindutempleberlin.de/wp-content/uploads/2021/06/Logo-new-1.png| width=100px) 
